@@ -1,0 +1,12 @@
+{
+  "drives": [
+    {"name": "Студенческий диск", "path": ".."}
+  ],
+  "rescan_seconds": 120,
+  "rules": {
+    "size_from_mb": 100,
+    "forbidden_types": [],
+    "forbidden_extensions": [],
+    "name_masks": []
+  }
+}
